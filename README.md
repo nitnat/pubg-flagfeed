@@ -1,6 +1,7 @@
 # PUBG FlagFeed by n1tn4t
 
-100+ PUBG Killfeed Flag Icons for Squads, Duos and Solos.  
+### 100+ PUBG Killfeed Flag Icons for Squads, Duos and Solos.
+
 Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 
 <img src="preview/01-flagicons-n1tn4t.jpg" alt="100+ PUBG Killfeed Flag Icons by n1tn4t">
@@ -128,6 +129,46 @@ Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 3. Paste the `Observer` folder there (the `Observer` folder should contain the `TeamIcon` folder, the `TeamIconNumbered` folder and the `Teaminfo.csv` file)
 4. **Optional**: If you want to use the Numbered Icons, rename the folder from `TeamIconNumbered` to `TeamIcon`. You can rename the other folder to `TeamIconPlain` or anything you want.
 5. Enjoy your Chicken Dinners! 🍗🎉
+
+## Q&A
+
+### Q: Why are flags better than emojis?  
+Our brains are trained to recognize flags quickly, which is crucial when scanning the killfeed in a fast-paced game like PUBG. Flags have simple structures and clear shapes, making them easy to tell apart. Emojis, on the other hand, tend to have more detail, which can make fast identification harder.
+
+### Q: Why is there a numbered version of the icons?  
+The numbered version helps you still identify teams if your teammates aren't using the flag icons and call the team numbers displayed by the game by default.
+
+### Q: Why 105 icons instead of 100?  
+While there can't be more than 100 unique "teams" in Solos, the game sometimes assigns team numbers above 100, which is why five extra icons were included.
+
+### Q: What logic was used to select the flags?
+Flags were chosen based on the following criteria:
+   - **1-20:** Top 20 PUBG Esports Nations by Player Earnings (Source: [esportsearnings.com](https://www.esportsearnings.com))
+   - **21-25:** Popular Non-Country Flags
+   - **26-99:** World Flags sorted by recognition (Source: [FlagWhiz.com](https://www.flagwhiz.com)) and uniqueness. Visually similar flags were excluded.
+   - **100:** For the Lulz ಥ_ಥ
+   - **101-105:** 5 Extra Flags for Solos (since team numbers can exceed 100)
+   - **105:** "Isle of Man" simply sounds epic.
+
+### Q: Which flags were excluded?  
+Some flags, despite their high recognition, were excluded because they looked too similar to others, ensuring all icons in the killfeed are easy to tell apart. The following flags were excluded:
+
+- New Zealand (Similar to Australia)  
+- Egypt (Similar to Iraq)  
+- Lebanon (Similar to Austria)  
+- Indonesia (Similar to Poland)  
+- Singapore (Similar to Poland)  
+- Philippines (Similar to Czech Republic)  
+- Malaysia (Similar to USA)  
+- Côte d'Ivoire (Similar to Ireland)  
+- Syria (Similar to Iraq)  
+- Slovenia (Similar to Russia)  
+- Paraguay (Similar to Netherlands)  
+- Ethiopia (Similar to Ghana)  
+- Latvia (Similar to Austria)  
+- Bulgaria (Similar to Hungary)  
+- Lithuania (Similar to Ghana)  
+- Ecuador (Similar to Colombia)
 
 ## Credits
 
