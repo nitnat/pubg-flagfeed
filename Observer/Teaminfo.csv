@@ -32,7 +32,7 @@ TeamNumber,TeamName,TeamShortName,ImageFileName,TeamColor
 31,Jamaica,JAM,031.png,FFD700FF
 32,Spain,ESP,032.png,AA151BFF
 33,Switzerland,CHE,033.png,FF0000FF
-34,Mexico,MEX,034.png,006341FF
+34,Austria,AUT,034.png,FF0000FF
 35,Belgium,BEL,035.png,FFD700FF
 36,Ireland,IRL,036.png,FF883EFF
 37,Israel,ISR,037.png,0038B8FF
@@ -59,7 +59,7 @@ TeamNumber,TeamName,TeamShortName,ImageFileName,TeamColor
 58,Cuba,CUB,058.png,FF0000FF
 59,Czech Republic,CZE,059.png,11457EFF
 60,Afghanistan,AFG ,060.png,007A36FF
-61,Austria,AUT,061.png,FF0000FF
+61,Mexico,MEX,061.png,006341FF
 62,North Korea,PRK,062.png,FF0000FF
 63,Cyprus,CYP,063.png,D6861EFF
 64,Sri Lanka,LKA,064.png,FF9933FF
