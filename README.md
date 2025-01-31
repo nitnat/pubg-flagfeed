@@ -172,6 +172,9 @@ Some flags, despite their high recognition, were excluded because they looked to
 
 ## Credits
 
+Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)  
+Idea for numbered Icons by [Ciseur](https://github.com/Ciseur/ciz-pubg-killfeed-flags)
+
 © Country Flag Icons by [Nucleo Icons](https://nucleoapp.com)  
 © Font used for Numbers: [Refrigerator Deluxe](https://www.marksimonson.com/fonts/view/refrigerator-deluxe/) by Mark Simonson Studio
 
