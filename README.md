@@ -124,7 +124,7 @@ Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 
 ## Install
 
-1. Download the latest release on Github
+1. Download [the latest release on Github](https://github.com/nitnat/pubg-flagfeed/releases)
 2. Open Windows Explorer and paste `%LOCALAPPDATA%\TslGame\Saved` into the address bar at the top, then press Enter.
 3. Paste the `Observer` folder there (the `Observer` folder should contain the `TeamIcon` folder, the `TeamIconNumbered` folder and the `Teaminfo.csv` file)
 4. **Optional**: If you want to use the Numbered Icons, rename the folder from `TeamIconNumbered` to `TeamIcon`. You can rename the other folder to `TeamIconPlain` or anything you want.
