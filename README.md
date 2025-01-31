@@ -136,10 +136,10 @@ Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 Our brains are trained to recognize flags quickly, which is crucial when scanning the killfeed in a fast-paced game like PUBG. Flags have simple structures and clear shapes, making them easy to tell apart. Emojis, on the other hand, tend to have more detail, which can make fast identification harder.
 
 ### Q: Why is there a numbered version of the icons?  
-The numbered version helps you still identify teams if your teammates aren't using the flag icons and call the team numbers displayed by the game by default.
+The numbered version allows you to identify teams in Duos and Squads even if your teammates aren't using the flag icons and are instead calling out the default team numbers displayed by the game. It also helps if you're unsure of a country's name, as you can still refer to the team number.
 
 ### Q: Why 105 icons instead of 100?  
-While there can't be more than 100 unique "teams" in Solos, the game sometimes assigns team numbers above 100, which is why five extra icons were included.
+While there can't be more than 100 unique "teams" in Solos, the game sometimes assigns team numbers above 100 (when players leave in the prelobby and new players join). This is why five additional icons were included.
 
 ### Q: What logic was used to select the flags?
 Flags were chosen based on the following criteria:
