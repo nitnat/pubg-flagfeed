@@ -1,6 +1,6 @@
 # PUBG FlagFeed by n1tn4t
 
-100+ PUBG Killfeed Flag Icons for Squads, Duos and Solos.\
+100+ PUBG Killfeed Flag Icons for Squads, Duos and Solos.  
 Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 
 <img src="preview/01-flagicons-n1tn4t.jpg" alt="100+ PUBG Killfeed Flag Icons by n1tn4t">
@@ -129,9 +129,14 @@ Original Idea by [Kowo](https://youtu.be/8OWbQ_wXhpk?si=w6JcehJ6YkvV1RMY)
 4. **Optional**: If you want to use the Numbered Icons, rename the folder from `TeamIconNumbered` to `TeamIcon`. You can rename the other folder to `TeamIconPlain` or anything you want.
 5. Enjoy your Chicken Dinners! 🍗🎉
 
+## Credits
+
+© Country Flag Icons by [Nucleo Icons](https://nucleoapp.com)  
+© Font used for Numbers: [Refrigerator Deluxe](https://www.marksimonson.com/fonts/view/refrigerator-deluxe/) by Mark Simonson Studio
+
 ## Make my day
 
-If you like my work and want to support it, you can buy me a coffee (or two).\
+If you like my work and want to support it, you can buy me a coffee (or two).  
 Every donation helps me keep things going. Thank you! 💙
 
 [**Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=X49DU3LMCLMPJ)
